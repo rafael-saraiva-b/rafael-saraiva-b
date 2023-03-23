@@ -1,5 +1,8 @@
-### Hi there 👋
+# Ola Pessoal, me chamo Rafael
 
+Sou formado em Design, e apaixonado por tecnologia, estou em processo de mudança de área estudando Desenvolvimento Web na Trybe, adiquirindo muito experiencia com JavaScript, React, MySQL e Node,js. Além disso, estudando por conta propria Python e o início de Machine Learning e Ciência De Dados, temas que me interessam muito.
+
+Para entrar em contato comigo pode me chamar no email rafael.saraiva.borges@gmail.com ou pelo linkedin linkedin.com/in/rafael-s-borges/
 <!--
 **rafael-saraiva-b/rafael-saraiva-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
